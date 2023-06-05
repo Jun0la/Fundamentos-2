@@ -1,0 +1,32 @@
+
+1 - Escreva um algoritmo que exiba a sequência de Fibonacci iniciando em 1 até o "n" elemento.
+        Explicação: Na sequência de Fibonnacci, cada elemento é a soma dos dois elementos anteriores. Os dois primeiros elementos são 1 e 1.
+        Recebe como entrada o valor de “n”.*/
+
+
+2 - Escreva um algoritmo que simule o funcionamento de um caixa eletrônico.
+    Explicação: Deverá receber o valor desejado de saque e ele retornará à quantidade de cédulas de cada valor. 
+    As cédulas consideradas pelo caixa eletrônico são: 100, 50, 20, 10, 5 e 2. Deve ser retornado a menor quantidade de cédulas possível para o valor do saque.*/
+
+    
+3 - Escreva um algoritmo que some números pares.
+Explicação: Dada uma lista de números distintos encontre a soma dos números pares que resulte no menor valor, 
+    e deve retornar este valor. (Ex: [7, 1, 4, 2, 8, 9, 0, 6] => 2+0)
+     
+     
+
+1. Escreva um algoritmo que receba um texto como entrada e precisará retornar
+# // se ele é ou não um palíndromo. Sendo 1 para o caso de ser palíndromo e 0 quando não for.
+a
+
+# // 2. Escreva um algoritmo que encontre o maior e o menor número de uma lista de inteiros.
+
+# // Explicação: Dado uma lista de inteiros como entrada, o algoritmo precisará retornar o maior e o menor número dentro da lista de inteiros
+
+3 Escreva um algoritmo que simule o funcionamento de um caixa eletrônico.
+# // Explicação: Deverá receber o valor desejado de saque e ele retornará à quantidade de cédulas de cada valor.
+# // As cédulas consideradas pelo caixa eletrônico são: 100, 50, 20, 10, 5 e 2.
+# // Deve ser retornado a menor quantidade de cédulas possível para o valor do saque.
+# // Ex: 175 reais
+# // Quantidade de Cédulas:
+# // Cédula: 100 - Quantidade: 1
