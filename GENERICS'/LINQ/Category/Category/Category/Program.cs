@@ -40,7 +40,7 @@ namespace Course
                 new Product() { Id = 11, Name = "Level", Price = 70.0, Category = c1 }
             };
 
-            //var r1 = products.Where(p => p.Category.Tier == 1 && p.Price < 900.0);
+            //var r1 = products.Where(zap => p.Category.Tier == 1 && p.Price < 900.0);
             var r1 = from p in products where p.Category.Tier == 1 && p.Price < 900.0 select p;
             Print("TIER 1 AND PRICE < 900:", r1);
 

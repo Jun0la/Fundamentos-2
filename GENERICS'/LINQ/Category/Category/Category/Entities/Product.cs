@@ -1,4 +1,5 @@
 ﻿using System.Globalization;
+using System.Reflection.PortableExecutable;
 
 namespace Course.Entities
 {
@@ -8,6 +9,7 @@ namespace Course.Entities
         public string Name { get; set; }
         public double Price { get; set; }
         public Category Category { get; set; }
+
 
         public override string ToString()
         {
@@ -22,4 +24,5 @@ namespace Course.Entities
                 + Category.Tier;
         }
     }
+
 }
